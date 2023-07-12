@@ -1,0 +1,142 @@
+{
+  "assets/Demo/game.proxy.js?cjs&original=.js": {
+    "imports": {
+      "__unresolved_1": "assets/Demo/game.js",
+      "__unresolved_3": "assets/Demo/game.js",
+      "__unresolved_4": "assets/Demo/game.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Demo/game.proxy.js@63cjs&original=.js",
+    "mTimestamp": 1648791411551
+  },
+  "assets/Demo/phaser.min.proxy.js?cjs&original=.js": {
+    "imports": {
+      "__unresolved_1": "assets/Demo/phaser.min.js",
+      "__unresolved_3": "assets/Demo/phaser.min.js",
+      "__unresolved_4": "assets/Demo/phaser.min.js",
+      "__unresolved_0": "quick-pack:/cce/internal/code-quality/cr.js",
+      "__unresolved_2": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Demo/phaser.min.proxy.js@63cjs&original=.js",
+    "mTimestamp": 1648791411751
+  },
+  "assets/Demo/game.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Demo/game.js",
+    "mTimestamp": 1648791412923
+  },
+  "assets/Demo/phaser.min.js": {
+    "imports": {
+      "__unresolved_0": "quick-pack:/cce/internal/ml/cjs-loader.js"
+    },
+    "physicalLocation": "fs/0/assets/Demo/phaser.min.js",
+    "mTimestamp": 1648791435812
+  },
+  "assets/scripts/Player.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/scripts/Player.js",
+    "mTimestamp": 1648796286218
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-box2d"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1679135367613,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_2": "assets/scripts/Player.js",
+      "__unresolved_0": "assets/Demo/game.proxy.js?cjs&original=.js",
+      "__unresolved_1": "assets/Demo/phaser.min.proxy.js?cjs&original=.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1679135367680,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1679135367802
+  },
+  "quick-pack:/cce/internal/ml/cjs-loader.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/ml/cjs-loader.js",
+    "mTimestamp": 1679135368005
+  }
+}

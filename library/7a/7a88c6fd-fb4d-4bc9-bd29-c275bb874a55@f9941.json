@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tree-orange",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 65,
+      "height": 80
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 67,
+      "height": 80
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7a88c6fd-fb4d-4bc9-bd29-c275bb874a55@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-idle-front",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 5,
+      "width": 24,
+      "height": 28
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "730491d4-a234-4bc6-8e19-e71d0fc126ac@6c48a",
+    "packable": true
+  }
+}

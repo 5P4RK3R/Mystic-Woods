@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy-death",
+    "atlas": "",
+    "rect": {
+      "x": 8,
+      "y": 1,
+      "width": 167,
+      "height": 31
+    },
+    "offset": {
+      "x": 1.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 180,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "81230d86-059d-45f1-a6e3-67129d81b505@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mole-walk-front-4",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 3,
+      "width": 16,
+      "height": 19
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 24,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "76786b9f-e469-405c-a34e-28f2c6b32e72@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-idle-back",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 5,
+      "width": 24,
+      "height": 28
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "aebe2a5d-e315-47c6-b9b4-d1ac0dae9a6a@6c48a",
+    "packable": true
+  }
+}

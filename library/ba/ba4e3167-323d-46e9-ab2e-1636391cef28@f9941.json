@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-attack-side-weapon-2",
+    "atlas": "",
+    "rect": {
+      "x": 7,
+      "y": 8,
+      "width": 16,
+      "height": 23
+    },
+    "offset": {
+      "x": -1,
+      "y": -3.5
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ba4e3167-323d-46e9-ab2e-1636391cef28@6c48a",
+    "packable": true
+  }
+}

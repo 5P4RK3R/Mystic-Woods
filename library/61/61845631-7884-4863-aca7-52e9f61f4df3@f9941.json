@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-idle-front",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 8,
+      "width": 12,
+      "height": 22
+    },
+    "offset": {
+      "x": 0,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "61845631-7884-4863-aca7-52e9f61f4df3@6c48a",
+    "packable": true
+  }
+}

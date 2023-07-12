@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "press-enter-text",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 0,
+      "width": 64,
+      "height": 15
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 67,
+      "height": 15
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ee76abaf-4217-411b-bed2-5250c6951087@6c48a",
+    "packable": true
+  }
+}

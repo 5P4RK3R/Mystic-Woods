@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-walk-front-2",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 4,
+      "width": 24,
+      "height": 28
+    },
+    "offset": {
+      "x": -2.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e5f0d658-2009-4b25-bf73-8c21516f7f70@6c48a",
+    "packable": true
+  }
+}

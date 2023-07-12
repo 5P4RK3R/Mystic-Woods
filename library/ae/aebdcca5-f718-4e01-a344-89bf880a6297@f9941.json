@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-walk-back-2",
+    "atlas": "",
+    "rect": {
+      "x": 8,
+      "y": 9,
+      "width": 16,
+      "height": 22
+    },
+    "offset": {
+      "x": 0,
+      "y": -4
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "aebdcca5-f718-4e01-a344-89bf880a6297@6c48a",
+    "packable": true
+  }
+}

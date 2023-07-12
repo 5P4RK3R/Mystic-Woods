@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-attack-side",
+    "atlas": "",
+    "rect": {
+      "x": 9,
+      "y": 8,
+      "width": 77,
+      "height": 22
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 96,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "954b33f0-7d30-4756-b2e4-26d90ccc1e03@6c48a",
+    "packable": true
+  }
+}

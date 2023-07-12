@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mole-idle-back",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 3,
+      "width": 12,
+      "height": 19
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 24,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "299ddbe4-4663-4d20-8e62-794e21f878be@6c48a",
+    "packable": true
+  }
+}

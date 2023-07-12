@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "index",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<!DOCTYPE html>\n<html>\n<head>\n    <meta charset=\"utf-8\" />\n    <title> Demo </title>\n\n    <style type=\"text/css\">\n\n\n        *{\n            margin: 0;\n            padding: 0;\n        }\n\n\n        #gameDiv{\n            width: 500px;\n            height: 288px;\n        }\n\n        canvas {\n            image-rendering: -moz-crisp-edges;\n            image-rendering: -webkit-crisp-edges;\n            image-rendering: pixelated;\n        }\n\n        @import url(http://fonts.googleapis.com/css?family=VT323);\n        .hiddenText {\n            font-family: 'VT323', monospace;\n            visibility: hidden;\n            height: 0;\n        }\n\n    </style>\n\n\n    <link href=\"https://fonts.googleapis.com/css?family=VT323\" rel=\"stylesheet\">\n\n\n    <script type=\"text/javascript\" src=\"phaser.min.js\"></script>\n    <script type=\"text/javascript\" src=\"game.js\"></script>\n\n    <meta name=\"viewport\" content=\"initial-scale=1 user-scalable=0\" />\n\n\n</head>\n<body>\n<p class=\"hiddenText\"> . </p>\n\n</body>\n</html>"
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-idle-back",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 9,
+      "width": 12,
+      "height": 21
+    },
+    "offset": {
+      "x": 0,
+      "y": -3.5
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "028d4337-f8db-4011-9f14-b6c9dfeb8676@6c48a",
+    "packable": true
+  }
+}

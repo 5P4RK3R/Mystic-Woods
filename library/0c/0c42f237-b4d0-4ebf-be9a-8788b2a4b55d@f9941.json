@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-walk-front",
+    "atlas": "",
+    "rect": {
+      "x": 9,
+      "y": 6,
+      "width": 173,
+      "height": 24
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 192,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0c42f237-b4d0-4ebf-be9a-8788b2a4b55d@6c48a",
+    "packable": true
+  }
+}

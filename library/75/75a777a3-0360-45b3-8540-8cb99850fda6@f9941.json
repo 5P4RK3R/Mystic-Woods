@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tree-pink",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 65,
+      "height": 80
+    },
+    "offset": {
+      "x": -1,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 67,
+      "height": 80
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "75a777a3-0360-45b3-8540-8cb99850fda6@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-attack-front-weapon-2",
+    "atlas": "",
+    "rect": {
+      "x": 9,
+      "y": 6,
+      "width": 15,
+      "height": 24
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2f19e00b-5041-4ae5-93d4-a0dc2987c828@6c48a",
+    "packable": true
+  }
+}

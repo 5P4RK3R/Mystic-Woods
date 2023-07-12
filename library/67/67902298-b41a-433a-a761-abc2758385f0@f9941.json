@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rock",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 31,
+      "height": 28
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 29
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "67902298-b41a-433a-a761-abc2758385f0@6c48a",
+    "packable": true
+  }
+}

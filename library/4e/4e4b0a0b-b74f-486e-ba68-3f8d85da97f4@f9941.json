@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-walk-back-4",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 6,
+      "width": 25,
+      "height": 26
+    },
+    "offset": {
+      "x": 1,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4e4b0a0b-b74f-486e-ba68-3f8d85da97f4@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,2602 @@
+{
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/read_me.txt.meta": {
+    "time": 1648742439589.3625
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites.meta": {
+    "time": 1648742439567.9314
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters.meta": {
+    "time": 1648742439568.6655
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects.meta": {
+    "time": 1648742439569.4294
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/particles.meta": {
+    "time": 1648742439570.2131
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets.meta": {
+    "time": 1648742439573.4944
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters/player.png.meta": {
+    "time": 1648742439665.5122
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters/slime.png.meta": {
+    "time": 1648742439671.0273
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects/chest_01.png.meta": {
+    "time": 1648742439668.6384
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects/objects.png.meta": {
+    "time": 1648742439667.8728
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/particles/dust_particles_01.png.meta": {
+    "time": 1648742439692.4932
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/decor_16x16.png.meta": {
+    "time": 1648742439765.3416
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/decor_8x8.png.meta": {
+    "time": 1648742439749.8904
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/fences.png.meta": {
+    "time": 1648742439764.0295
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/floors.meta": {
+    "time": 1648742439672.8713
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/grass.png.meta": {
+    "time": 1648742439773.2822
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/plains.png.meta": {
+    "time": 1648742439796.435
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls.meta": {
+    "time": 1648742439751.7263
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/water_decorations.png.meta": {
+    "time": 1648742439827.37
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/floors/wooden.png.meta": {
+    "time": 1648742439826.0532
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/walls.png.meta": {
+    "time": 1648742439822.138
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/wooden_door.png.meta": {
+    "time": 1648742439834.3867
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/wooden_door_b.png.meta": {
+    "time": 1648742439836.6025
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites": {
+    "time": 1648742439556.674,
+    "uuid": "4b4f6382-ad9a-4ab7-a3d3-794c8e512e60",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters": {
+    "time": 1648742439557.515,
+    "uuid": "7313fc03-1fcd-47e3-9945-6543a022014d",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects": {
+    "time": 1648742439558.6072,
+    "uuid": "67a96804-4617-4ef2-bd63-11a96b236577",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/particles": {
+    "time": 1648742439559.1692,
+    "uuid": "254d12ea-371a-42f1-a904-2cc6242103fc",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets": {
+    "time": 1648742439563.76,
+    "uuid": "c902a977-1219-41d2-bfa6-5e0e26459582",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/read_me.txt": {
+    "time": 1639716374000,
+    "uuid": "1138d31b-c2b2-43ed-abde-eac50842a6b6",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters/player.png": {
+    "time": 1639714970000,
+    "uuid": "fd1bef30-9887-42df-9c3e-40e158dd53c7",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects/objects.png": {
+    "time": 1644562974000,
+    "uuid": "4ef05ada-63a8-4581-850e-1f091110a098",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/objects/chest_01.png": {
+    "time": 1639671030000,
+    "uuid": "0bb258b1-bb44-4c10-8766-5de39cca91b0",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/characters/slime.png": {
+    "time": 1639655834000,
+    "uuid": "19d0faa4-5480-411f-80a6-f8ff26c00c84",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/floors": {
+    "time": 1648742439564.3271,
+    "uuid": "615a10a0-875a-4941-a1d3-b7ed9dfd9d02",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/particles/dust_particles_01.png": {
+    "time": 1639668296000,
+    "uuid": "8967202e-751d-43e7-98e6-bd1c0f31065c",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/decor_8x8.png": {
+    "time": 1639715230000,
+    "uuid": "f756d5b8-a0a2-4b06-b87f-28bfa57d1b1a",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls": {
+    "time": 1648742439565.9893,
+    "uuid": "24657d87-d5d2-4115-8bdc-ca8369b046d7",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/fences.png": {
+    "time": 1639669378000,
+    "uuid": "cad6f13b-6cae-41a2-b5d4-e5695fd619a0",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/decor_16x16.png": {
+    "time": 1639715204000,
+    "uuid": "fa4230b9-42ec-416b-a9c4-aefec71a2e5b",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/grass.png": {
+    "time": 1639673178000,
+    "uuid": "05f83cc3-46e3-4ef5-b30c-94fe3e18203e",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/plains.png": {
+    "time": 1639715176000,
+    "uuid": "c4fc2e82-6a73-4164-bcfe-5bc61f772b90",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/walls.png": {
+    "time": 1644560492000,
+    "uuid": "a908b3a1-c6c5-47cc-8a63-f11c103b0f10",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/floors/wooden.png": {
+    "time": 1644544588000,
+    "uuid": "48f53b99-eeb7-4c02-8891-9f106e98b55f",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/water_decorations.png": {
+    "time": 1642486996000,
+    "uuid": "0867784f-646f-48bb-9c72-e4bd6c859244",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/wooden_door.png": {
+    "time": 1644545088000,
+    "uuid": "9d4f9e89-fccd-42ad-b477-be5c54b3effe",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/sprites/tilesets/walls/wooden_door_b.png": {
+    "time": 1644546362000,
+    "uuid": "015e8262-f336-4316-9473-249dd9f4dd81",
+    "missing": true
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/scripts.meta": {
+    "time": 1648793043497.981
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/scripts": {
+    "time": 1648793059547.72,
+    "uuid": "61107553-5672-40a7-94a6-927278c9318c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/scripts/Player.ts.meta": {
+    "time": 1648793059549.1523
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/scripts/Player.ts": {
+    "time": 1648796253591.2537,
+    "uuid": "e14e5cc9-f7c6-4eee-bde3-a7a26b78d95f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo": {
+    "time": 1648791383444.8936,
+    "uuid": "8ad19b20-c7cc-4344-8323-4cab872714e6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS": {
+    "time": 1648791383447.043,
+    "uuid": "9bbfca35-b0e5-4b92-a22d-2174fa733402",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG": {
+    "time": 1648791383448.8594,
+    "uuid": "b010f018-d08c-4230-bd40-5ebb2159150a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD": {
+    "time": 1648791383451.2883,
+    "uuid": "dd5f6e88-a5c4-4609-ae65-d2a48aefa49b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/public-license.txt": {
+    "time": 1604862879000,
+    "uuid": "394183e7-ce65-44e3-936b-22c95034e5a8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets": {
+    "time": 1648791383453.8171,
+    "uuid": "5d626702-13db-4dd7-a4d1-e802ff04708a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/game.js": {
+    "time": 1517876475000,
+    "uuid": "33782f3d-c50f-40c1-8cad-283e68359436",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/index.html": {
+    "time": 1512758714000,
+    "uuid": "f760e097-cffb-4b8c-856d-83ba09a6ae58",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/phaser.min.js": {
+    "time": 1493663977000,
+    "uuid": "063422b2-23fb-48fc-9a0b-b196438a0f91",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment": {
+    "time": 1648791383454.7986,
+    "uuid": "b3f8a10e-cf4e-4509-b21b-67ba56a80148",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites": {
+    "time": 1648791383456.3147,
+    "uuid": "2389bd87-f20b-40a6-b2d3-7d9561417e8d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment": {
+    "time": 1648791383458.9177,
+    "uuid": "7a48042d-a2e5-4c41-90ac-13f538459dfe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites": {
+    "time": 1648791383468.5364,
+    "uuid": "4c3031b9-ef9e-4036-a1cf-aae8dd0b7d25",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets": {
+    "time": 1648791383473.0073,
+    "uuid": "5152d4ba-ff80-4d34-bf01-c3c9b5982581",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/concepts.psd": {
+    "time": 1517455171000,
+    "uuid": "f09394bb-3e79-4216-8f70-4b3aec8d121c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/environment": {
+    "time": 1648791383473.8372,
+    "uuid": "8031a695-af88-4fb9-a38e-57a4aee5cde0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/misc": {
+    "time": 1648791383474.9824,
+    "uuid": "1dd9cc3b-b51e-4207-9d9c-424acaee4d3b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites": {
+    "time": 1648791383476.6238,
+    "uuid": "d27a6c89-3b77-4e15-a144-1e6e248fd8f3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas": {
+    "time": 1648791383480.9465,
+    "uuid": "95da0548-6129-4859-a5cb-2b6b6f747b0d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment": {
+    "time": 1648791383483.6858,
+    "uuid": "9c90e894-1de5-4c93-a4d1-77e63a1a9330",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps": {
+    "time": 1648791383484.615,
+    "uuid": "80c06b03-7ce5-4543-81ec-bbf136593bc2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound": {
+    "time": 1648791383492.426,
+    "uuid": "22b4d38a-9534-4c72-a7f7-c066f6971cf0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites": {
+    "time": 1648791383502.637,
+    "uuid": "6ad758f7-c91b-49e9-a414-ff8fb41b85fe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment/tileset.png": {
+    "time": 1516680538000,
+    "uuid": "cfa482dc-9108-4ead-89ff-55cdd809e928",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment/waterfall.gif": {
+    "time": 1516580515000,
+    "uuid": "de10115e-b8e8-4c14-b237-d5dbe16d72de",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc": {
+    "time": 1648791383504.5803,
+    "uuid": "30fe1d8a-5e58-4fbe-9b75-bdd3f71b6eb5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies": {
+    "time": 1648791383505.774,
+    "uuid": "45db6f4a-43c5-45d6-8aec-29ac0a398609",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero": {
+    "time": 1648791383506.6924,
+    "uuid": "10e028ae-111c-4849-add3-74327cec9817",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/objects.png": {
+    "time": 1517551207000,
+    "uuid": "4c4549f7-d76e-4ac1-974d-b5c6c2e4342e",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects": {
+    "time": 1648791383514.7449,
+    "uuid": "9c0d19f9-ca78-4aa5-9c80-027aee5c7fc2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/tileset-sliced.png": {
+    "time": 1517859216000,
+    "uuid": "c13465c1-ffd6-4c86-af2c-4cbd1f5e6953",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/tileset.png": {
+    "time": 1517859216000,
+    "uuid": "1c4d868e-175e-434b-9914-288f040d63bf",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation": {
+    "time": 1648791383516.3418,
+    "uuid": "acfd82af-59ff-46a1-ab21-484b432fbe82",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero": {
+    "time": 1648791383521.183,
+    "uuid": "330c63b9-9635-45a2-9efc-69ad796e2bd9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc": {
+    "time": 1648791383524.9077,
+    "uuid": "fe89e466-917c-4659-a0e7-7393a76dc9c0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole": {
+    "time": 1648791383526.0923,
+    "uuid": "6a634393-0a50-4b39-bfa3-ca66c2685981",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant": {
+    "time": 1648791383528.4456,
+    "uuid": "e69156ba-408f-42a3-947c-7c711b992218",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero": {
+    "time": 1648791383532.6404,
+    "uuid": "1d2ef2ab-6c5e-4afa-83fc-0a89b249e1f2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc": {
+    "time": 1648791383534.6028,
+    "uuid": "d77a9e6a-c6b8-4959-8860-3815b9218c9f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole": {
+    "time": 1648791383535.539,
+    "uuid": "cf906d66-5846-478e-b779-1d22ea7767cd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant": {
+    "time": 1648791383536.633,
+    "uuid": "19b34e14-7ab1-448c-9a83-e3f2936b107a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/environment/environment.psd": {
+    "time": 1516682218000,
+    "uuid": "f261f59c-712c-4d17-a913-cbbd3cbdec23",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/misc/title-screen.psd": {
+    "time": 1517360592000,
+    "uuid": "1851c969-263f-4aab-827e-e8f3e62b5f7b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies": {
+    "time": 1648791383537.731,
+    "uuid": "35789ff5-e373-4c84-8ccf-73d775165c11",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero": {
+    "time": 1648791383539.5786,
+    "uuid": "5892ff07-b508-4651-9b23-1c3b0bc79c3a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc": {
+    "time": 1648791383541.552,
+    "uuid": "8bccb472-f4c0-46c9-9945-74b3a4f3844d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.json": {
+    "time": 1517603276000,
+    "uuid": "ad80c19b-b10e-4546-924a-a8e17b61a1d9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.png": {
+    "time": 1517603276000,
+    "uuid": "3543b915-c457-4bac-966a-b86b7acf187f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.tps": {
+    "time": 1517603273000,
+    "uuid": "f41407f6-0df1-4692-8d46-791a9b62f9c3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.json": {
+    "time": 1517703236000,
+    "uuid": "38cab631-eae5-4261-b6d5-7ab553a94f23",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.png": {
+    "time": 1517703236000,
+    "uuid": "3c0bf525-6156-48be-85d5-ab02b573156e",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.tps": {
+    "time": 1517633857000,
+    "uuid": "aa559901-8942-4f9b-a825-798516e452e3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/collisions.png": {
+    "time": 1515259497000,
+    "uuid": "a3ea8f5e-4a40-4eaf-bbcd-f3efbc614db6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/exit-open.png": {
+    "time": 1517871678000,
+    "uuid": "36b457a5-717d-437d-8f1f-3c556b089e5a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/objects.png": {
+    "time": 1517551207000,
+    "uuid": "70de0563-3921-4bbb-aad1-31e9e19b5751",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/tileset.png": {
+    "time": 1517859216000,
+    "uuid": "61d7be17-0f6d-4bb7-ba4d-cbda53cb07a2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps/map copy.json": {
+    "time": 1517866505000,
+    "uuid": "c476a943-0104-4c95-8ed2-ef13f63fe7e9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps/map.json": {
+    "time": 1517876414000,
+    "uuid": "da17764c-30ae-46a4-880d-a57e02e4adf1",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/ancient_path.mp3": {
+    "time": 1485308024000,
+    "uuid": "d854e446-a620-4336-a3ac-609cbc24c650",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/ancient_path.ogg": {
+    "time": 1485308208000,
+    "uuid": "fca7cbb3-738e-4aa4-97aa-d8de719136c8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/enemy-death.mp3": {
+    "time": 1510447251000,
+    "uuid": "41bbd5ee-d328-421f-aace-ad008092673d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/enemy-death.ogg": {
+    "time": 1510447257000,
+    "uuid": "83764a27-f410-4548-900b-05efa95f931d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/hurt.mp3": {
+    "time": 1510447302000,
+    "uuid": "cc9ac0a3-61ed-4a89-a535-e4e46ce15ddb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/hurt.ogg": {
+    "time": 1510447298000,
+    "uuid": "f590b8a6-eb89-4346-abb7-8f1d3a95dfaf",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/item.mp3": {
+    "time": 1510446774000,
+    "uuid": "5d2b7d4d-7595-44e9-99ea-7ce25d490504",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/item.ogg": {
+    "time": 1510446766000,
+    "uuid": "7926b9b0-e65a-4b68-9d61-38cd82a41e01",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/slash.mp3": {
+    "time": 1515442849000,
+    "uuid": "51969900-0d0f-49b5-a1e2-3e7be20c22ec",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/slash.ogg": {
+    "time": 1515442843000,
+    "uuid": "204c4a4d-4658-4601-af5c-aa233425a672",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/credits-text.png": {
+    "time": 1517360309000,
+    "uuid": "76a3745f-2654-4f81-9917-b1ca00662af1",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/game-over.png": {
+    "time": 1517360582000,
+    "uuid": "6af753d0-3afd-4f60-8334-5d62e540c94d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/instructions.png": {
+    "time": 1517360525000,
+    "uuid": "ae2ca25c-88fa-4842-a3fd-dd9c66f453b2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/loading.png": {
+    "time": 1448554982000,
+    "uuid": "823d3ef8-0b3c-4a1c-b660-06f395d82a6f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/press-enter-text.png": {
+    "time": 1515367971000,
+    "uuid": "ee76abaf-4217-411b-bed2-5250c6951087",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/title-screen-bg.png": {
+    "time": 1517360260000,
+    "uuid": "3597ce4c-4007-47a3-b6db-b63579b1492d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/title-screen.png": {
+    "time": 1517360379000,
+    "uuid": "1690362b-f3e2-4981-83dd-532f6445491a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/arrow.png": {
+    "time": 1516923839000,
+    "uuid": "9ebb92af-392c-434b-af64-d480d5ea5a0b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/coin.gif": {
+    "time": 1517455118000,
+    "uuid": "65588111-0ffe-47f1-9b29-29118c3ae356",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/enemy-death.gif": {
+    "time": 1517363705000,
+    "uuid": "9efe8130-59e3-4208-b233-b8e8f8f61b22",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/gem.gif": {
+    "time": 1517456041000,
+    "uuid": "00b2f201-faba-42ed-8648-31928d5d622d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole": {
+    "time": 1648791383546.5095,
+    "uuid": "64c628d8-5038-4d6f-b226-f5c2b74f9913",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant": {
+    "time": 1648791383550.296,
+    "uuid": "faf0b498-5436-4de1-99d5-e95ff34b35f2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack": {
+    "time": 1648791383554.4043,
+    "uuid": "a3bf668c-4079-4ffa-923f-a2c7fdef29cf",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk": {
+    "time": 1648791383556.3901,
+    "uuid": "82c3e3cb-1562-4e69-b6b2-03ca8a2e25de",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/bush-tall.png": {
+    "time": 1517551197000,
+    "uuid": "8cc0f4fe-1c26-4de1-a7ae-087fd6a4ceda",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/bush.png": {
+    "time": 1517551197000,
+    "uuid": "afae97bb-097e-4f1d-bb4c-f1e5da89fc14",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/rock-monument.png": {
+    "time": 1517551197000,
+    "uuid": "d19e5ffc-add0-470f-8917-c0e80936f8bb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/rock.png": {
+    "time": 1517551197000,
+    "uuid": "67902298-b41a-433a-a761-abc2758385f0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/sign.png": {
+    "time": 1517551197000,
+    "uuid": "1ba384fc-a0b4-40c5-be6f-bab106df71c7",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-dried.png": {
+    "time": 1517551197000,
+    "uuid": "c95d5949-ec9f-443c-9f75-4ac0c8d3a5d7",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-orange.png": {
+    "time": 1517551197000,
+    "uuid": "7a88c6fd-fb4d-4bc9-bd29-c275bb874a55",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-pink.png": {
+    "time": 1517551197000,
+    "uuid": "75a777a3-0360-45b3-8540-8cb99850fda6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/trunk.png": {
+    "time": 1517551197000,
+    "uuid": "f5cc5aca-744a-4928-8b90-8389b6bbdd17",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-1.png": {
+    "time": 1517953244000,
+    "uuid": "25bf59df-7484-47b4-9953-198fabf8e451",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-2.png": {
+    "time": 1517953245000,
+    "uuid": "75443a68-3cf0-4d64-9a95-a62317354f4f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-3.png": {
+    "time": 1517953245000,
+    "uuid": "df47f0af-b9fc-45ed-bddc-e25efab1ff6d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack": {
+    "time": 1648791383558.0625,
+    "uuid": "0f323669-3a07-4c27-a84e-5ed96efa9732",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon": {
+    "time": 1648791383559.4358,
+    "uuid": "f9b67f47-00d8-4ceb-bf56-39ec2a714f52",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle": {
+    "time": 1648791383562.4233,
+    "uuid": "47cc23bc-992d-4c5b-80aa-e43a43a641f9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk": {
+    "time": 1648791383563.9604,
+    "uuid": "49994e6f-c1a0-44ba-8174-5d69eb09b40e",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/arrow.png": {
+    "time": 1516923839000,
+    "uuid": "5208b1a9-335a-4d3b-89a1-d0909d036a76",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin": {
+    "time": 1648791383566.5195,
+    "uuid": "ddf94b08-7e23-4234-bfbc-1e4cc177b36f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death": {
+    "time": 1648791383569.968,
+    "uuid": "db9d5a3b-b533-42a7-a2c0-5c2414d857cb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem": {
+    "time": 1648791383572.3318,
+    "uuid": "a93ad015-7c48-4361-bfa5-c0614017685c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts": {
+    "time": 1648791383573.3455,
+    "uuid": "a183e20a-7e62-4fab-ac68-f6e22c4b73e0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle": {
+    "time": 1648791383575.6648,
+    "uuid": "538658d7-ccb1-453c-a707-c083c74473a2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk": {
+    "time": 1648791383578.9084,
+    "uuid": "2af934ba-7d92-4f35-ab89-d16313efc846",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle": {
+    "time": 1648791383581.8284,
+    "uuid": "f65f72af-9888-40e6-bf75-f1a1427aac65",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk": {
+    "time": 1648791383584.4543,
+    "uuid": "3cec2858-9dba-413e-a5d3-fc41fd8e7cfe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack": {
+    "time": 1648791383587.1025,
+    "uuid": "f068aa39-8311-43ef-91f3-a21d97539e07",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon": {
+    "time": 1648791383589.158,
+    "uuid": "c374d52f-85f8-4196-b236-57d19d2a96b8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle": {
+    "time": 1648791383590.77,
+    "uuid": "f0b7f1ea-9cfb-4537-aca7-a52bc20ca8d0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk": {
+    "time": 1648791383592.577,
+    "uuid": "028ff32e-9ddb-47e7-9292-30887fe592c9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/coin.png": {
+    "time": 1517552819000,
+    "uuid": "ca9db1c2-f69a-4929-9d44-16c3b2621fff",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/enemy-death.png": {
+    "time": 1517552872000,
+    "uuid": "81230d86-059d-45f1-a6e3-67129d81b505",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/gem.png": {
+    "time": 1517552923000,
+    "uuid": "e7ecd355-77d0-4a6d-ab11-b11e5e9e80e0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle": {
+    "time": 1648791383595.9827,
+    "uuid": "13c33d43-728d-4b7d-9047-d2d4585290cc",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk": {
+    "time": 1648791383598.3135,
+    "uuid": "44a7d337-dc5a-40ab-b6f0-97276bd5a5e8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle": {
+    "time": 1648791383600.4421,
+    "uuid": "dc8d3922-04e6-47f0-afbd-ee1914090517",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk": {
+    "time": 1648791383601.963,
+    "uuid": "dc380693-8085-4673-b80a-1b58aae37243",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole": {
+    "time": 1648791383603.1108,
+    "uuid": "0fea318c-2a21-4442-b771-96ad79ab8935",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant": {
+    "time": 1648791383604.0498,
+    "uuid": "aacbe8b3-7589-4437-901a-e5765dc38110",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack": {
+    "time": 1648791383606.0803,
+    "uuid": "7ae18afc-77e8-4974-affe-8f87223433fa",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle": {
+    "time": 1648791383607.6296,
+    "uuid": "7239fb7a-de6e-4aae-acd2-d6c8872aa5fe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk": {
+    "time": 1648791383629.9167,
+    "uuid": "d2384d9c-4dc6-4306-9e1b-8216ed3f13c0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/coin.psd": {
+    "time": 1517455092000,
+    "uuid": "25e7255e-3ca3-4477-8e10-ff9825e26f58",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/enemy-death.psd": {
+    "time": 1517363666000,
+    "uuid": "b801cb77-0d3a-4af6-819b-1c45782598e0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/gem.psd": {
+    "time": 1517456048000,
+    "uuid": "cff83f8b-5836-4dc3-9ded-66501e16f72c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-back.gif": {
+    "time": 1517019385000,
+    "uuid": "44164484-c639-46ce-bd29-876e16a9246f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-front.gif": {
+    "time": 1517019403000,
+    "uuid": "607148f6-a869-48b4-a94a-8d597aa12c45",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-side.gif": {
+    "time": 1517019372000,
+    "uuid": "01f9cc8c-6ae4-4ab5-b22a-0ac529790935",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-back.gif": {
+    "time": 1517014956000,
+    "uuid": "c97ad7f9-3aba-4535-94ea-3f11aa7f5e5c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-front.gif": {
+    "time": 1517014983000,
+    "uuid": "60e66b9d-a949-4b27-9bde-fd100d4d3083",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-side.gif": {
+    "time": 1517018550000,
+    "uuid": "0158cef9-6118-42bd-b6bc-a94b0ae04473",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-back.gif": {
+    "time": 1517278127000,
+    "uuid": "97c729ea-cb66-4705-8e51-802a1332c85d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-front.gif": {
+    "time": 1517020069000,
+    "uuid": "019bbac3-4166-4456-808c-8ed14b638d67",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-side.gif": {
+    "time": 1517020047000,
+    "uuid": "d8797d21-5f0c-4d78-98d0-fb55f22c0598",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-back.gif": {
+    "time": 1517278029000,
+    "uuid": "7ce174ef-48f3-4d09-a629-2dfca4058f87",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-front.gif": {
+    "time": 1517275426000,
+    "uuid": "2e49eb90-ef0a-44eb-9eec-acb9833dbfb6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-side.gif": {
+    "time": 1517282308000,
+    "uuid": "ff2358f5-51db-4382-92ec-ea2ac6aff652",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-back-weapon.gif": {
+    "time": 1517552113000,
+    "uuid": "f34d8201-e4ae-44af-ae9d-ecb9d2fd81b0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-back.gif": {
+    "time": 1517552153000,
+    "uuid": "8ea3290c-d195-4cf8-9e1e-a67990e93b59",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-front-weapon.gif": {
+    "time": 1516857083000,
+    "uuid": "5a90393d-4ae8-4ede-a298-76eb3723cc08",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-front.gif": {
+    "time": 1516856891000,
+    "uuid": "1f166802-726e-4683-a36c-9b340e0dbfa2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-side-weapon.gif": {
+    "time": 1516920218000,
+    "uuid": "923844a0-465a-46c4-89be-bd3252469bbe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-side.gif": {
+    "time": 1516919277000,
+    "uuid": "f8e874dc-9d06-4865-8e99-4ba2a1c38427",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-back.gif": {
+    "time": 1516757920000,
+    "uuid": "85b95f80-a2a1-45a4-96e0-b81410b350aa",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-front.gif": {
+    "time": 1517551398000,
+    "uuid": "629664f6-ee9a-4263-8889-ddad909cbd0a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-side.gif": {
+    "time": 1516755053000,
+    "uuid": "30e39e65-c122-4e59-88eb-3787734e50eb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back": {
+    "time": 1648791383632.5132,
+    "uuid": "05a8e387-2bfc-463e-9070-240c01441989",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front": {
+    "time": 1648791383706.9768,
+    "uuid": "60241a2e-fa2b-4adc-a55c-3099dca1e215",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side": {
+    "time": 1648791383723.6526,
+    "uuid": "e012dfd5-bd02-4afc-8c76-aafbe043a2f5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back": {
+    "time": 1648791383730.1885,
+    "uuid": "54dc01f6-940d-4d02-ac74-e65ad96feadd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front": {
+    "time": 1648791383755.9211,
+    "uuid": "b9b6d3f0-dca4-41cd-ae76-139f2a4da064",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side": {
+    "time": 1648791383760.4736,
+    "uuid": "241360fd-907f-4ad1-a72d-e890f90569cd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-back": {
+    "time": 1648791383761.3108,
+    "uuid": "26fca44e-36d7-4399-86b1-94d6e85c5d72",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-front": {
+    "time": 1648791383762.5627,
+    "uuid": "23d55b89-17ff-48ec-87e5-8171809bd967",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-side": {
+    "time": 1648791383763.1042,
+    "uuid": "c8a1cc62-f729-4dfe-b13d-deab3ab0527c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back": {
+    "time": 1648791383771.006,
+    "uuid": "323f1ff9-1ec7-4451-9275-4fa8e9c55d55",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front": {
+    "time": 1648791383779.8916,
+    "uuid": "584dab09-18ce-4feb-b927-ee53dbf2a582",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side": {
+    "time": 1648791383787.1345,
+    "uuid": "081ce4b1-7768-4afc-be4c-43f3bdcc70d4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-1.png": {
+    "time": 1517552781000,
+    "uuid": "cc64e57f-219e-489a-b660-73920b25555d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-2.png": {
+    "time": 1517552781000,
+    "uuid": "2b562994-67e1-43a5-bdde-436d6da9f677",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-3.png": {
+    "time": 1517552782000,
+    "uuid": "410966b0-4368-4c3f-a6c0-c104bfbd848d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-4.png": {
+    "time": 1517552782000,
+    "uuid": "b09a9fef-2194-4b5f-b94f-5e32a9b62f9d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-1.png": {
+    "time": 1517552847000,
+    "uuid": "e86d2365-2e5d-4961-8b95-83ba0c493a7f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-2.png": {
+    "time": 1517552847000,
+    "uuid": "6d9a199c-f16d-48b3-84ee-ccb68658d00d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-3.png": {
+    "time": 1517552848000,
+    "uuid": "78089cfd-e0f5-466d-9e58-9cb86a121806",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-4.png": {
+    "time": 1517552848000,
+    "uuid": "3d2229e9-0371-4b5d-a6d7-07a0fa23923f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-5.png": {
+    "time": 1517552848000,
+    "uuid": "12c570dd-c1f4-4ceb-9b2b-0d08cc77f728",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-6.png": {
+    "time": 1517552849000,
+    "uuid": "377a9dc8-8888-4637-845f-847fa16d81fd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-1.png": {
+    "time": 1517552902000,
+    "uuid": "748edff9-4dbd-4486-9279-f98715d42cee",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-2.png": {
+    "time": 1517552902000,
+    "uuid": "58b73fbc-eac8-480a-a776-016f0e2ee812",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-3.png": {
+    "time": 1517552902000,
+    "uuid": "1e67ea0e-03f9-4d5f-a5d1-b6b6efbe4599",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-4.png": {
+    "time": 1517552902000,
+    "uuid": "33f367b9-5ee5-4647-bcb0-2819383f3bbc",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts/hearts-1.png": {
+    "time": 1515181791000,
+    "uuid": "7d11816d-5fc3-4a3b-b98c-a181c17d38bd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts/hearts-2.png": {
+    "time": 1515181808000,
+    "uuid": "51984055-3423-4e65-8c5c-33ddc12a4796",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-back.png": {
+    "time": 1517280601000,
+    "uuid": "97185b10-c74c-4152-bcda-496149d890e3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-front.png": {
+    "time": 1517280614000,
+    "uuid": "d4e94425-f87c-48db-ab6f-fd99d011ead3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-side.png": {
+    "time": 1517280625000,
+    "uuid": "d1b7db89-1ba8-4030-968c-e37e51430952",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back": {
+    "time": 1648791383800.729,
+    "uuid": "c6c4fe40-1137-41af-aeab-5b45f85f7365",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front": {
+    "time": 1648791383809.7954,
+    "uuid": "ba727c28-f749-442a-a193-040cc766d7f8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side": {
+    "time": 1648791383818.0906,
+    "uuid": "a26a5703-0006-4578-a0b8-2df6ca421a03",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-back.png": {
+    "time": 1517281627000,
+    "uuid": "583fe741-33eb-40a2-88a7-14ae9dffad50",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-front.png": {
+    "time": 1517281641000,
+    "uuid": "68599cd3-073b-4a00-8483-c02e1fad729f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-side.png": {
+    "time": 1517281651000,
+    "uuid": "82eb582b-5560-453f-9276-a0b0a8f51cd5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back": {
+    "time": 1648791383824.9875,
+    "uuid": "417915c0-2353-420b-9ee4-6b2b9064fc08",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front": {
+    "time": 1648791383832.726,
+    "uuid": "43a475b0-f000-41a4-9f58-94335ecaeab5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side": {
+    "time": 1648791383837.2107,
+    "uuid": "2fe10cf6-232a-4a09-a8d5-72118977849b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-back.png": {
+    "time": 1517552379000,
+    "uuid": "7deb5a0b-9615-4517-8dea-ce99a8b898e5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-front.png": {
+    "time": 1517552559000,
+    "uuid": "699e6af8-f8fa-480a-9813-c4034361f49e",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-side.png": {
+    "time": 1517552692000,
+    "uuid": "954b33f0-7d30-4756-b2e4-26d90ccc1e03",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-back-weapon.png": {
+    "time": 1517552294000,
+    "uuid": "e1949380-ddb7-4ffa-9274-635a25e2abfa",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-front-weapon.png": {
+    "time": 1517552467000,
+    "uuid": "dc6c5793-752a-43cb-823e-209267783018",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-side-weapon.png": {
+    "time": 1517552621000,
+    "uuid": "b3e38ebb-0f3b-4439-b3cc-4463cf75f640",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-back.png": {
+    "time": 1517617700000,
+    "uuid": "028d4337-f8db-4011-9f14-b6c9dfeb8676",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-front.png": {
+    "time": 1517617648000,
+    "uuid": "61845631-7884-4863-aca7-52e9f61f4df3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-side.png": {
+    "time": 1516752691000,
+    "uuid": "cb509411-0255-4ec2-9e72-028a4b2ba60b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-back-walk.png": {
+    "time": 1517551603000,
+    "uuid": "1607c186-4bf1-46ee-921c-69f5c157a709",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-walk-front.png": {
+    "time": 1517551959000,
+    "uuid": "0c42f237-b4d0-4ebf-be9a-8788b2a4b55d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-walk-side.png": {
+    "time": 1517552017000,
+    "uuid": "3bdeb43e-71fb-4d48-b1ea-9f6643f4aa6f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-back.png": {
+    "time": 1517280601000,
+    "uuid": "299ddbe4-4663-4d20-8e62-794e21f878be",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-front.png": {
+    "time": 1517280614000,
+    "uuid": "4782f06f-ac94-4f72-880c-3fe6186cdb5f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-side.png": {
+    "time": 1517280625000,
+    "uuid": "ca89d60c-6ced-41fe-8d16-7559f1baa3a2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-back.png": {
+    "time": 1517280744000,
+    "uuid": "0c6418cc-1197-4ca6-95e2-8ed4f47dbf25",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-front.png": {
+    "time": 1517281452000,
+    "uuid": "e7fc6e21-aa49-4f66-9049-c4c47cd20da0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-side.png": {
+    "time": 1517281552000,
+    "uuid": "1d9cb0dd-5d73-4301-ae71-84e16072575d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-back.png": {
+    "time": 1517281627000,
+    "uuid": "aebe2a5d-e315-47c6-b9b4-d1ac0dae9a6a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-front.png": {
+    "time": 1517281641000,
+    "uuid": "730491d4-a234-4bc6-8e19-e71d0fc126ac",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-side.png": {
+    "time": 1517281651000,
+    "uuid": "906d4243-3d76-4b7f-bf3b-8b57858f3c20",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-back.png": {
+    "time": 1517281749000,
+    "uuid": "16cd1094-a5a7-4c71-98e6-bab7f77f9089",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-front.png": {
+    "time": 1517281927000,
+    "uuid": "e59c40d6-967d-4fc4-bd07-10546e0ecc75",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-side.png": {
+    "time": 1517282443000,
+    "uuid": "9d0cffe1-8340-4e9e-9856-dde44861b435",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle": {
+    "time": 1648791383841.8923,
+    "uuid": "6e37916b-a863-40e0-a4ce-c4f2aa1a074b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk": {
+    "time": 1648791383844.107,
+    "uuid": "812f0194-0b31-4686-89cb-2869c1f7d55c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle": {
+    "time": 1648791383885.06,
+    "uuid": "c53a2ba7-3dbd-4d75-a53a-de553d86d939",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk": {
+    "time": 1648791383900.9114,
+    "uuid": "2a772aae-1a1d-4961-ab63-b2b9443e660d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-back.psd": {
+    "time": 1517552167000,
+    "uuid": "7f200243-4827-47c2-a881-a52e8050be50",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-front.psd": {
+    "time": 1516922677000,
+    "uuid": "892c3f3d-e323-42a2-b007-4612245352ed",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-side.psd": {
+    "time": 1516920208000,
+    "uuid": "46a5eb80-446e-4908-a178-3f5746b8962c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-back.psd": {
+    "time": 1517617690000,
+    "uuid": "0c2281c8-f560-4753-8bda-2875e258e023",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-front.psd": {
+    "time": 1517617633000,
+    "uuid": "00e090ae-aca9-4e97-8de1-946645599238",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-side.psd": {
+    "time": 1516752681000,
+    "uuid": "90f849fa-609a-4673-845d-86fb3700e832",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-front.psd": {
+    "time": 1517551382000,
+    "uuid": "0363c9d4-94c8-4a90-a8c9-30ce6ba65e04",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-side.psd": {
+    "time": 1516755029000,
+    "uuid": "1a96abb0-3370-472e-a60d-69f5f5c300cb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-walk.psd": {
+    "time": 1516757915000,
+    "uuid": "77325adb-c645-4d0e-9ed6-edb12701ab5d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-1.png": {
+    "time": 1517552334000,
+    "uuid": "70dbc42b-a2b7-43ff-89ee-ed305c3cc9cb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-2.png": {
+    "time": 1517552335000,
+    "uuid": "05d79c47-d8ed-4e0f-b1ee-e99aff888ae6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-3.png": {
+    "time": 1517552335000,
+    "uuid": "4ece3d5c-2dbd-42fd-903b-f033854d945c",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-1.png": {
+    "time": 1517552521000,
+    "uuid": "9f7fbf7b-5580-413c-abde-35a8a541b7b8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-2.png": {
+    "time": 1517552521000,
+    "uuid": "68fd7d23-ef4f-4864-8e44-686df6aeb1dd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-3.png": {
+    "time": 1517552521000,
+    "uuid": "5701e224-4e13-45a3-83e1-318e1ed881e6",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-1.png": {
+    "time": 1517552651000,
+    "uuid": "a9c2ed0d-85e3-4e4c-a859-b9af44e15447",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-2.png": {
+    "time": 1517552651000,
+    "uuid": "d4783d29-4b4c-4e8f-9d52-70c706c5a275",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-3.png": {
+    "time": 1517552651000,
+    "uuid": "a7e2b0fc-b5a5-491d-8b34-2eafff76a1d7",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-1.png": {
+    "time": 1517552209000,
+    "uuid": "a29c97c0-2d00-4238-8330-084dcbaf9adb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-2.png": {
+    "time": 1517552210000,
+    "uuid": "ab48733a-4f45-44d0-b7bc-8c3432f22403",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-3.png": {
+    "time": 1517552210000,
+    "uuid": "f217ab28-d8c7-4bf2-a8fc-11904389374b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-1.png": {
+    "time": 1517552434000,
+    "uuid": "e254225a-e27d-4cd5-b4d9-b26a8714b87b",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-2.png": {
+    "time": 1517552434000,
+    "uuid": "2f19e00b-5041-4ae5-93d4-a0dc2987c828",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-3.png": {
+    "time": 1517552435000,
+    "uuid": "052775db-b985-4ea0-85bb-5596d0bcbb51",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-1.png": {
+    "time": 1517552592000,
+    "uuid": "2dcab93a-e34b-4772-ab2f-3796a9b93321",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-2.png": {
+    "time": 1517552593000,
+    "uuid": "ba4e3167-323d-46e9-ab2e-1636391cef28",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-3.png": {
+    "time": 1517552593000,
+    "uuid": "279933c6-9454-4470-83fe-fb2ae9034520",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-back/hero-idle-back.png": {
+    "time": 1517617700000,
+    "uuid": "1e77ea05-2d32-424b-9628-77b3d6e2185a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-front/hero-idle-front.png": {
+    "time": 1517617648000,
+    "uuid": "b25c7a5d-6e8a-4346-8b98-11872e9ce4ed",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-side/hero-idle-side.png": {
+    "time": 1516752705000,
+    "uuid": "832741f8-7b67-4c37-be3e-ac2ad19d4e5d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-1.png": {
+    "time": 1517551571000,
+    "uuid": "a10a6245-d26f-4b52-8a94-f3589db1ca3f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png": {
+    "time": 1517551572000,
+    "uuid": "aebdcca5-f718-4e01-a344-89bf880a6297",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png": {
+    "time": 1517551572000,
+    "uuid": "a65b0c1f-909b-4c67-8ab4-a2b9290eaea7",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-4.png": {
+    "time": 1517551572000,
+    "uuid": "68d4f5be-b23d-4f4c-b1a4-b6efa9f7bbce",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-5.png": {
+    "time": 1517551573000,
+    "uuid": "ce829051-5ab2-49e2-bf40-845bc52a8643",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-6.png": {
+    "time": 1517551573000,
+    "uuid": "a6912b36-dbe3-4522-a009-6580d80dbc37",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-1.png": {
+    "time": 1517551921000,
+    "uuid": "12fb9713-2d44-4a50-b2e1-f8aa0ec9c60a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png": {
+    "time": 1517551922000,
+    "uuid": "0b2b9b28-b2a4-40df-bf41-b73f2af5ff8a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-3.png": {
+    "time": 1517551922000,
+    "uuid": "e228c4a5-c37d-4f7b-ba0e-261140156044",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png": {
+    "time": 1517551923000,
+    "uuid": "ca41205e-0239-475b-af6a-8b78e239fce4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-5.png": {
+    "time": 1517551923000,
+    "uuid": "967db40c-1810-46d3-9bd5-f38b9a763fcd",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png": {
+    "time": 1517551926000,
+    "uuid": "d5617a63-eba9-498d-8ce3-d89afda66864",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png": {
+    "time": 1517551989000,
+    "uuid": "61775d8e-d7df-4fa2-a737-d4c02909800a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-2.png": {
+    "time": 1517551989000,
+    "uuid": "298eba28-45e4-41a9-be0c-b646272fee43",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-3.png": {
+    "time": 1517551990000,
+    "uuid": "1facc2ba-b3d2-4d5d-82f5-209f71996213",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png": {
+    "time": 1517551990000,
+    "uuid": "aa5596d8-87b5-423a-b311-f79780b28a38",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-5.png": {
+    "time": 1517551991000,
+    "uuid": "9a2b79be-6902-4032-b92e-efbbaa25944f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png": {
+    "time": 1517551991000,
+    "uuid": "86eb629c-1f5a-43a6-bf82-5a8743c3dde3",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-1.png": {
+    "time": 1517280722000,
+    "uuid": "247b992a-1146-4012-b565-32e7a4fb6e08",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-2.png": {
+    "time": 1517280722000,
+    "uuid": "5bf49f31-e18f-47bb-99cc-f09c1624b8a5",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-3.png": {
+    "time": 1517280722000,
+    "uuid": "3d235789-4436-4dfc-bf1f-d60987042728",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-4.png": {
+    "time": 1517280723000,
+    "uuid": "1c965413-9167-4b95-911d-2c8778c3bff4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-1.png": {
+    "time": 1517281412000,
+    "uuid": "be0b6dc3-da37-4784-9b98-80bccb9f8453",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-2.png": {
+    "time": 1517281414000,
+    "uuid": "07c6f319-dba6-41b5-b1a9-1c7456c45d79",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-3.png": {
+    "time": 1517281414000,
+    "uuid": "f11fb074-3188-425e-a190-a8d04466d94a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-4.png": {
+    "time": 1517281414000,
+    "uuid": "76786b9f-e469-405c-a34e-28f2c6b32e72",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-1.png": {
+    "time": 1517281483000,
+    "uuid": "66960e20-6f45-4343-bf79-66f492d36a6d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-2.png": {
+    "time": 1517281483000,
+    "uuid": "78864a85-7139-4bbd-8770-7a26f6318395",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-3.png": {
+    "time": 1517281483000,
+    "uuid": "b8a1002c-fbd4-40cc-8ea4-f06d6d1b79b2",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-4.png": {
+    "time": 1517281484000,
+    "uuid": "e6f86509-80c4-4d97-b856-2343ddae9dfc",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-1.png": {
+    "time": 1517281725000,
+    "uuid": "f7e8c839-af92-4e65-8be7-cbddb81e898f",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-2.png": {
+    "time": 1517281725000,
+    "uuid": "a6231eed-629f-4f14-8556-cacd4e8834a0",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-3.png": {
+    "time": 1517281726000,
+    "uuid": "558d689a-9121-40dc-a77e-0fe9f22896c4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-4.png": {
+    "time": 1517281726000,
+    "uuid": "4e4b0a0b-b74f-486e-ba68-3f8d85da97f4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-1.png": {
+    "time": 1517281867000,
+    "uuid": "f034085b-d438-4b5e-9d09-c5b3f07bccb9",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-2.png": {
+    "time": 1517281867000,
+    "uuid": "e5f0d658-2009-4b25-bf73-8c21516f7f70",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-3.png": {
+    "time": 1517281867000,
+    "uuid": "ef0ac541-6ce3-46d2-9f26-d02ac78172bb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-4.png": {
+    "time": 1517281868000,
+    "uuid": "58adc5b7-c69c-41f2-8ad4-2d6bea4387a8",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-1.png": {
+    "time": 1517282367000,
+    "uuid": "0c9a537e-a672-4ee2-810a-25cd4494c3eb",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-2.png": {
+    "time": 1517282367000,
+    "uuid": "6289ebe7-b01f-4c38-b782-83190141d7fe",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-3.png": {
+    "time": 1517282368000,
+    "uuid": "65cc8a28-75ea-4467-85e0-9a918fd57973",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-4.png": {
+    "time": 1517282368000,
+    "uuid": "433f76d5-81e0-4446-bec0-86efc8c6d62e",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-back.psd": {
+    "time": 1517019312000,
+    "uuid": "5856bb81-1ccb-4a35-8a33-4b735f229050",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-front.psd": {
+    "time": 1517019410000,
+    "uuid": "ec23ee71-5fbf-4838-bbed-9a026dbfcca4",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-side.psd": {
+    "time": 1517019339000,
+    "uuid": "f5dcc996-368a-45ab-b3b2-1586ea010095",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-back.psd": {
+    "time": 1517014967000,
+    "uuid": "ba1df1d9-8d71-4449-b4c5-50047b48a553",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-front.psd": {
+    "time": 1517020631000,
+    "uuid": "ba12e606-766b-4806-9af1-ad25cf39cba7",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-side.psd": {
+    "time": 1517018542000,
+    "uuid": "2dc74b00-5e19-4e7c-8502-ed6833679c8d",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-back.psd": {
+    "time": 1517278110000,
+    "uuid": "69231682-5ef2-4707-bded-bb633cd8f594",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-front.psd": {
+    "time": 1517019560000,
+    "uuid": "4c0747b7-eb2b-4925-89c8-532332b15560",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-side.psd": {
+    "time": 1517020021000,
+    "uuid": "ad96a718-0365-4748-b767-5a9b50fd073a",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-back.psd": {
+    "time": 1517278155000,
+    "uuid": "540edfe5-2e4b-4bed-b849-2379e216b205",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-front.psd": {
+    "time": 1517278052000,
+    "uuid": "8e7254a6-dc69-432a-8a2e-cab3069a5e90",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-side.psd": {
+    "time": 1517282220000,
+    "uuid": "57e28fd9-ec38-4dcb-9c45-9ef6eff88eef",
+    "missing": false
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo.meta": {
+    "time": 1648791383986.1943
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS.meta": {
+    "time": 1648791383986.672
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG.meta": {
+    "time": 1648791383987.24
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD.meta": {
+    "time": 1648791383987.9602
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets.meta": {
+    "time": 1648791383992.2876
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/game.js.meta": {
+    "time": 1648791383994.4104
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/phaser.min.js.meta": {
+    "time": 1648791384002.5789
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment.meta": {
+    "time": 1648791384007.732
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites.meta": {
+    "time": 1648791384009.921
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment.meta": {
+    "time": 1648791384014.9275
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites.meta": {
+    "time": 1648791384020.4065
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets.meta": {
+    "time": 1648791384023.5613
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/environment.meta": {
+    "time": 1648791384039.0977
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/misc.meta": {
+    "time": 1648791384041.9175
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites.meta": {
+    "time": 1648791384070.464
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas.meta": {
+    "time": 1648791384073.1145
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment.meta": {
+    "time": 1648791384090.2148
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps.meta": {
+    "time": 1648791384092.5466
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound.meta": {
+    "time": 1648791384104.2566
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites.meta": {
+    "time": 1648791384108.4353
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/public-license.txt.meta": {
+    "time": 1648791384240.8838
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/index.html.meta": {
+    "time": 1648791384243.4214
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc.meta": {
+    "time": 1648791384951.831
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies.meta": {
+    "time": 1648791384957.3376
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero.meta": {
+    "time": 1648791385023.5945
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects.meta": {
+    "time": 1648791385039.7637
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment/waterfall.gif.meta": {
+    "time": 1648791385111.831
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/environment/tileset.png.meta": {
+    "time": 1648791385273.4924
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/objects.png.meta": {
+    "time": 1648791385278.338
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation.meta": {
+    "time": 1648791385289.1462
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero.meta": {
+    "time": 1648791385291.173
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/tileset-sliced.png.meta": {
+    "time": 1648791385293.5093
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/concepts.psd.meta": {
+    "time": 1648791385296.7295
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc.meta": {
+    "time": 1648791385298.3938
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole.meta": {
+    "time": 1648791385301.4143
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant.meta": {
+    "time": 1648791385306.3452
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero.meta": {
+    "time": 1648791385308.6626
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc.meta": {
+    "time": 1648791385312.241
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole.meta": {
+    "time": 1648791385317.0747
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant.meta": {
+    "time": 1648791385320.7358
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies.meta": {
+    "time": 1648791385331.4617
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero.meta": {
+    "time": 1648791385338.2764
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc.meta": {
+    "time": 1648791385348.4624
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/tileset.png.meta": {
+    "time": 1648791385421.418
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.json.meta": {
+    "time": 1648791385955.4397
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.tps.meta": {
+    "time": 1648791385981.726
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.json.meta": {
+    "time": 1648791385991.797
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/misc/title-screen.psd.meta": {
+    "time": 1648791386006.4644
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas-props.png.meta": {
+    "time": 1648791386014.4558
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.tps.meta": {
+    "time": 1648791386016.5603
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/environment/environment.psd.meta": {
+    "time": 1648791386041.2043
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/atlas/atlas.png.meta": {
+    "time": 1648791386049.8933
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/collisions.png.meta": {
+    "time": 1648791386141.942
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps/map copy.json.meta": {
+    "time": 1648791386160.0232
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/exit-open.png.meta": {
+    "time": 1648791386206.0076
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/objects.png.meta": {
+    "time": 1648791386213.69
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/maps/map.json.meta": {
+    "time": 1648791386248.1794
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/environment/tileset.png.meta": {
+    "time": 1648791386303.859
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/ancient_path.mp3.meta": {
+    "time": 1648791386346.2908
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/enemy-death.ogg.meta": {
+    "time": 1648791386348.5
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/enemy-death.mp3.meta": {
+    "time": 1648791386349.9446
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/ancient_path.ogg.meta": {
+    "time": 1648791386354.118
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/hurt.mp3.meta": {
+    "time": 1648791386356.5847
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/hurt.ogg.meta": {
+    "time": 1648791386411.7546
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/slash.mp3.meta": {
+    "time": 1648791386414.1885
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/slash.ogg.meta": {
+    "time": 1648791386415.7976
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/item.mp3.meta": {
+    "time": 1648791386422.0645
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sound/item.ogg.meta": {
+    "time": 1648791386424.2695
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/instructions.png.meta": {
+    "time": 1648791386480.2737
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/credits-text.png.meta": {
+    "time": 1648791386482.4238
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/game-over.png.meta": {
+    "time": 1648791386488.3645
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/loading.png.meta": {
+    "time": 1648791386491.1868
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/press-enter-text.png.meta": {
+    "time": 1648791386496.9429
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/coin.gif.meta": {
+    "time": 1648791386510.3174
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/enemy-death.gif.meta": {
+    "time": 1648791386526.1934
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole.meta": {
+    "time": 1648791386528.4346
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant.meta": {
+    "time": 1648791386532.2805
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack.meta": {
+    "time": 1648791386541.2927
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk.meta": {
+    "time": 1648791386549.6938
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/gem.gif.meta": {
+    "time": 1648791386557.8923
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/title-screen-bg.png.meta": {
+    "time": 1648791386561.3574
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/Demo/assets/sprites/title-screen.png.meta": {
+    "time": 1648791386564.071
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/Misc/arrow.png.meta": {
+    "time": 1648791386567.3567
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/bush-tall.png.meta": {
+    "time": 1648791386612.329
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/rock-monument.png.meta": {
+    "time": 1648791386626.1313
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/bush.png.meta": {
+    "time": 1648791386697.8533
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/rock.png.meta": {
+    "time": 1648791386700.9795
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/sign.png.meta": {
+    "time": 1648791386714.74
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-dried.png.meta": {
+    "time": 1648791386763.077
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-orange.png.meta": {
+    "time": 1648791386781.3372
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/trunk.png.meta": {
+    "time": 1648791386784.4077
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack.meta": {
+    "time": 1648791386787.6514
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/sliced-objects/tree-pink.png.meta": {
+    "time": 1648791386791.0188
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon.meta": {
+    "time": 1648791386792.7537
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle.meta": {
+    "time": 1648791386794.3596
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk.meta": {
+    "time": 1648791386797.0576
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin.meta": {
+    "time": 1648791386799.9185
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-1.png.meta": {
+    "time": 1648791386805.2092
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death.meta": {
+    "time": 1648791386807.6938
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem.meta": {
+    "time": 1648791386809.3809
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts.meta": {
+    "time": 1648791386811.4734
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle.meta": {
+    "time": 1648791386813.0464
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk.meta": {
+    "time": 1648791386815.5234
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle.meta": {
+    "time": 1648791386817.6455
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk.meta": {
+    "time": 1648791386822.0854
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack.meta": {
+    "time": 1648791386824.3962
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon.meta": {
+    "time": 1648791386828.5444
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle.meta": {
+    "time": 1648791386830.424
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk.meta": {
+    "time": 1648791386832.6384
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-2.png.meta": {
+    "time": 1648791386858.4822
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/arrow.png.meta": {
+    "time": 1648791386866.4314
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/environment/waterfall animation/waterfall-3.png.meta": {
+    "time": 1648791386879.812
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle.meta": {
+    "time": 1648791386884.856
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk.meta": {
+    "time": 1648791386895.2866
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle.meta": {
+    "time": 1648791386897.946
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk.meta": {
+    "time": 1648791386908.5999
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole.meta": {
+    "time": 1648791386912.077
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant.meta": {
+    "time": 1648791386915.0215
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack.meta": {
+    "time": 1648791386925.0137
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle.meta": {
+    "time": 1648791386927.7275
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk.meta": {
+    "time": 1648791386932.516
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/coin.png.meta": {
+    "time": 1648791386943.5864
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/enemy-death.png.meta": {
+    "time": 1648791386948.7363
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/misc/gem.png.meta": {
+    "time": 1648791386998.4775
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-back.gif.meta": {
+    "time": 1648791387000.3103
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/coin.psd.meta": {
+    "time": 1648791387017.128
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/enemy-death.psd.meta": {
+    "time": 1648791387021.9954
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-front.gif.meta": {
+    "time": 1648791387034.026
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-idle-side.gif.meta": {
+    "time": 1648791387039.0002
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/misc/gem.psd.meta": {
+    "time": 1648791387059.917
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-back.gif.meta": {
+    "time": 1648791387065.9148
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-front.gif.meta": {
+    "time": 1648791387067.6765
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/mole/mole-walk-side.gif.meta": {
+    "time": 1648791387079.0085
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-back.gif.meta": {
+    "time": 1648791387084.43
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-front.gif.meta": {
+    "time": 1648791387092.2773
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-idle-side.gif.meta": {
+    "time": 1648791387099.0925
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-back.gif.meta": {
+    "time": 1648791387106.4036
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-front.gif.meta": {
+    "time": 1648791387110.3528
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/enemies/treant/treant-walk-side.gif.meta": {
+    "time": 1648791387114.7566
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-back-weapon.gif.meta": {
+    "time": 1648791387167.819
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-back.gif.meta": {
+    "time": 1648791387177.835
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-front-weapon.gif.meta": {
+    "time": 1648791387179.7383
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-front.gif.meta": {
+    "time": 1648791387181.1968
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-side.gif.meta": {
+    "time": 1648791387186.2625
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/attack/hero-attack-side-weapon.gif.meta": {
+    "time": 1648791387191.8413
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back.meta": {
+    "time": 1648791387193.7698
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front.meta": {
+    "time": 1648791387197.9114
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side.meta": {
+    "time": 1648791387199.9966
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back.meta": {
+    "time": 1648791387201.9858
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front.meta": {
+    "time": 1648791387210.254
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side.meta": {
+    "time": 1648791387212.4749
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-back.meta": {
+    "time": 1648791387214.779
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-front.meta": {
+    "time": 1648791387217.597
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-side.meta": {
+    "time": 1648791387219.5686
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back.meta": {
+    "time": 1648791387225.3213
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front.meta": {
+    "time": 1648791387228.7166
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side.meta": {
+    "time": 1648791387231.0398
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-side.gif.meta": {
+    "time": 1648791387232.7666
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-back.gif.meta": {
+    "time": 1648791387234.0876
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/GIFS/sprites/hero/walk/hero-walk-front.gif.meta": {
+    "time": 1648791387235.7996
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-3.png.meta": {
+    "time": 1648791387284.8806
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-1.png.meta": {
+    "time": 1648791387289.2395
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-2.png.meta": {
+    "time": 1648791387292.3955
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-1.png.meta": {
+    "time": 1648791387296.8823
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/coin/coin-4.png.meta": {
+    "time": 1648791387301.079
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-2.png.meta": {
+    "time": 1648791387336.1458
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-3.png.meta": {
+    "time": 1648791387340.2507
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-4.png.meta": {
+    "time": 1648791387345.637
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-5.png.meta": {
+    "time": 1648791387349.1372
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/enemy-death/enemy-death-6.png.meta": {
+    "time": 1648791387353.408
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-1.png.meta": {
+    "time": 1648791387416.5566
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-2.png.meta": {
+    "time": 1648791387420.275
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-3.png.meta": {
+    "time": 1648791387432.0476
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/gem/gem-4.png.meta": {
+    "time": 1648791387447.03
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts/hearts-1.png.meta": {
+    "time": 1648791387450.903
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back.meta": {
+    "time": 1648791387452.8684
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front.meta": {
+    "time": 1648791387461.4724
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side.meta": {
+    "time": 1648791387465.4067
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/misc/hearts/hearts-2.png.meta": {
+    "time": 1648791387501.257
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-back.png.meta": {
+    "time": 1648791387511.4185
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-front.png.meta": {
+    "time": 1648791387513.6372
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back.meta": {
+    "time": 1648791387515.552
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front.meta": {
+    "time": 1648791387526.646
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side.meta": {
+    "time": 1648791387530.4863
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/idle/mole-idle-side.png.meta": {
+    "time": 1648791387540.5295
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-back.png.meta": {
+    "time": 1648791387547.4033
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-side.png.meta": {
+    "time": 1648791387568.4683
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/idle/treant-idle-front.png.meta": {
+    "time": 1648791387576.3086
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-back.png.meta": {
+    "time": 1648791387580.1655
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-front.png.meta": {
+    "time": 1648791387596.0474
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack/hero-attack-side.png.meta": {
+    "time": 1648791387599.7383
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-back-weapon.png.meta": {
+    "time": 1648791387643.4573
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-front-weapon.png.meta": {
+    "time": 1648791387683.3928
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/attack-weapon/hero-attack-side-weapon.png.meta": {
+    "time": 1648791387695.1257
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-back.png.meta": {
+    "time": 1648791387702.384
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-front.png.meta": {
+    "time": 1648791387711.329
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/idle/hero-idle-side.png.meta": {
+    "time": 1648791387735.1611
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-back-walk.png.meta": {
+    "time": 1648791387758.8079
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-walk-front.png.meta": {
+    "time": 1648791387799.8071
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/hero/walk/hero-walk-side.png.meta": {
+    "time": 1648791387803.161
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-back.png.meta": {
+    "time": 1648791387818.0205
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-front.png.meta": {
+    "time": 1648791387831.0854
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/idle/mole-idle-side.png.meta": {
+    "time": 1648791387834.0664
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-back.png.meta": {
+    "time": 1648791387851.7368
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-front.png.meta": {
+    "time": 1648791387853.717
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/mole/walk/mole-walk-side.png.meta": {
+    "time": 1648791388114.2405
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-back.png.meta": {
+    "time": 1648791388150.9058
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-front.png.meta": {
+    "time": 1648791388155.5132
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle.meta": {
+    "time": 1648791388166.3035
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk.meta": {
+    "time": 1648791388172.0283
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle.meta": {
+    "time": 1648791388181.3113
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk.meta": {
+    "time": 1648791388187.158
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-back.png.meta": {
+    "time": 1648791388220.1646
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/idle/treant-idle-side.png.meta": {
+    "time": 1648791388271.6094
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-front.png.meta": {
+    "time": 1648791388288.8218
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/spritesheets/treant/walk/treant-walk-side.png.meta": {
+    "time": 1648791388313.7053
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-back.psd.meta": {
+    "time": 1648791388323.106
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-front.psd.meta": {
+    "time": 1648791388415.4646
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/attack/hero-attack-side.psd.meta": {
+    "time": 1648791388545.2266
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-back.psd.meta": {
+    "time": 1648791388634.7388
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-front.psd.meta": {
+    "time": 1648791388655.0989
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/idle/hero-idle-side.psd.meta": {
+    "time": 1648791388679.9739
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-front.psd.meta": {
+    "time": 1648791388697.541
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-side.psd.meta": {
+    "time": 1648791388709.3928
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/hero/walk/hero-walk-walk.psd.meta": {
+    "time": 1648791388717.3728
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-1.png.meta": {
+    "time": 1648791388872.274
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-2.png.meta": {
+    "time": 1648791388882.5896
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-1.png.meta": {
+    "time": 1648791388917.465
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-back/hero-attack-back-3.png.meta": {
+    "time": 1648791388922.1753
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-2.png.meta": {
+    "time": 1648791388939.521
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-front/hero-attack-front-3.png.meta": {
+    "time": 1648791388980.081
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-1.png.meta": {
+    "time": 1648791388993.1936
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-2.png.meta": {
+    "time": 1648791389131.9912
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack/hero-attack-side/hero-attack-side-3.png.meta": {
+    "time": 1648791389136.1091
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-1.png.meta": {
+    "time": 1648791389145.4155
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-2.png.meta": {
+    "time": 1648791389165.2263
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-back/hero-attack-back-weapon-3.png.meta": {
+    "time": 1648791389172.7932
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-1.png.meta": {
+    "time": 1648791389200.3398
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-2.png.meta": {
+    "time": 1648791389205.3337
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-front/hero-attack-front-weapon-3.png.meta": {
+    "time": 1648791389213.6272
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-1.png.meta": {
+    "time": 1648791389236.2817
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-2.png.meta": {
+    "time": 1648791389240.9724
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/attack-weapon/hero-attack-side/hero-attack-side-weapon-3.png.meta": {
+    "time": 1648791389385.9998
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-front/hero-idle-front.png.meta": {
+    "time": 1648791389394.2102
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-back/hero-idle-back.png.meta": {
+    "time": 1648791389401.4285
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/idle/hero-idle-side/hero-idle-side.png.meta": {
+    "time": 1648791389422.661
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-1.png.meta": {
+    "time": 1648791389433.8923
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-2.png.meta": {
+    "time": 1648791389442.641
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-4.png.meta": {
+    "time": 1648791389454.6277
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-3.png.meta": {
+    "time": 1648791389465.3079
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-5.png.meta": {
+    "time": 1648791389491.5862
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-back/hero-walk-back-6.png.meta": {
+    "time": 1648791389581.9644
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-1.png.meta": {
+    "time": 1648791389596.7554
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-2.png.meta": {
+    "time": 1648791389603.7793
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-3.png.meta": {
+    "time": 1648791389618.022
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-4.png.meta": {
+    "time": 1648791389673.2217
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-5.png.meta": {
+    "time": 1648791389682.6348
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-front/hero-walk-front-6.png.meta": {
+    "time": 1648791389705.1252
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-1.png.meta": {
+    "time": 1648791389708.0938
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-2.png.meta": {
+    "time": 1648791389716.8604
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-3.png.meta": {
+    "time": 1648791389738.2007
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-4.png.meta": {
+    "time": 1648791389785.278
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-5.png.meta": {
+    "time": 1648791389809.2522
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/hero/walk/hero-walk-side/hero-walk-side-6.png.meta": {
+    "time": 1648791389816.0957
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-1.png.meta": {
+    "time": 1648791389823.1091
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-3.png.meta": {
+    "time": 1648791389842.1733
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-2.png.meta": {
+    "time": 1648791389853.6765
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-back/mole-walk-back-4.png.meta": {
+    "time": 1648791390022.5376
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-1.png.meta": {
+    "time": 1648791390043.1821
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-2.png.meta": {
+    "time": 1648791390091.7537
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-3.png.meta": {
+    "time": 1648791390103.4756
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-front/mole-walk-front-4.png.meta": {
+    "time": 1648791390106.6099
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-1.png.meta": {
+    "time": 1648791390171.7524
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-2.png.meta": {
+    "time": 1648791390174.7476
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-3.png.meta": {
+    "time": 1648791390226.2356
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/mole/walk/mole-walk-side/mole-walk-side-4.png.meta": {
+    "time": 1648791390240.4128
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-1.png.meta": {
+    "time": 1648791390288.9133
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-2.png.meta": {
+    "time": 1648791390312.5935
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-3.png.meta": {
+    "time": 1648791390338.5935
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-back/treant-walk-back-4.png.meta": {
+    "time": 1648791390357.762
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-1.png.meta": {
+    "time": 1648791390458.9346
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-2.png.meta": {
+    "time": 1648791390470.3374
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-3.png.meta": {
+    "time": 1648791390634.5078
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-front/treant-walk-front-4.png.meta": {
+    "time": 1648791390639.8591
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-1.png.meta": {
+    "time": 1648791390652.883
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-2.png.meta": {
+    "time": 1648791390668.4585
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-3.png.meta": {
+    "time": 1648791390673.8723
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-back.psd.meta": {
+    "time": 1648791390689.901
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PNG/sprites/treant/walk/treant-walk-side/treant-walk-side-4.png.meta": {
+    "time": 1648791390707.7776
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-front.psd.meta": {
+    "time": 1648791390711.493
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/idle/mole-idle-side.psd.meta": {
+    "time": 1648791390730.7798
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-back.psd.meta": {
+    "time": 1648791390739.27
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-front.psd.meta": {
+    "time": 1648791390873.5305
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/mole/walk/mole-walk-side.psd.meta": {
+    "time": 1648791390891.4075
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-back.psd.meta": {
+    "time": 1648791390896.1562
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-front.psd.meta": {
+    "time": 1648791390910.6873
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/idle/treant-idle-side.psd.meta": {
+    "time": 1648791390921.359
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-back.psd.meta": {
+    "time": 1648791390941.432
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-front.psd.meta": {
+    "time": 1648791390956.2273
+  },
+  "/Users/5p4rk3r/Projects/JS:TS/Cocos/Mystic Woods/assets/PSD/sprites/enemies/treant/walk/treant-walk-side.psd.meta": {
+    "time": 1648791390966.8398
+  }
+}

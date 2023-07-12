@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-idle-side",
+    "atlas": "",
+    "rect": {
+      "x": 9,
+      "y": 8,
+      "width": 14,
+      "height": 22
+    },
+    "offset": {
+      "x": 0,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "cb509411-0255-4ec2-9e72-028a4b2ba60b@6c48a",
+    "packable": true
+  }
+}

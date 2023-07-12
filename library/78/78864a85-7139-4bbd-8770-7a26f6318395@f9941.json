@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mole-walk-side-2",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 3,
+      "width": 12,
+      "height": 19
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 24,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "78864a85-7139-4bbd-8770-7a26f6318395@6c48a",
+    "packable": true
+  }
+}

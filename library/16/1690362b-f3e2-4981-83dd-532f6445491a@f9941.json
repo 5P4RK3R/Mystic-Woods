@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title-screen",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 1,
+      "width": 83,
+      "height": 114
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 83,
+      "height": 116
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1690362b-f3e2-4981-83dd-532f6445491a@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy-death-6",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 1,
+      "width": 23,
+      "height": 31
+    },
+    "offset": {
+      "x": -1.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 30,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "377a9dc8-8888-4637-845f-847fa16d81fd@6c48a",
+    "packable": true
+  }
+}

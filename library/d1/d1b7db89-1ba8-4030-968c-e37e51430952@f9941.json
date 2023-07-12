@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mole-idle-side",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 3,
+      "width": 12,
+      "height": 19
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 24,
+      "height": 24
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d1b7db89-1ba8-4030-968c-e37e51430952@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-idle-side",
+    "atlas": "",
+    "rect": {
+      "x": 5,
+      "y": 5,
+      "width": 17,
+      "height": 28
+    },
+    "offset": {
+      "x": -2,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 31,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "82eb582b-5560-453f-9276-a0b0a8f51cd5@6c48a",
+    "packable": true
+  }
+}

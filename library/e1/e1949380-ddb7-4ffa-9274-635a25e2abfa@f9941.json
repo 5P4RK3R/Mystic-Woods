@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-attack-back-weapon",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 8,
+      "width": 81,
+      "height": 24
+    },
+    "offset": {
+      "x": 2.5,
+      "y": -4
+    },
+    "originalSize": {
+      "width": 96,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e1949380-ddb7-4ffa-9274-635a25e2abfa@6c48a",
+    "packable": true
+  }
+}

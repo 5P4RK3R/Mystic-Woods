@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treant-walk-side",
+    "atlas": "",
+    "rect": {
+      "x": 6,
+      "y": 4,
+      "width": 110,
+      "height": 29
+    },
+    "offset": {
+      "x": -1,
+      "y": -1
+    },
+    "originalSize": {
+      "width": 124,
+      "height": 35
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9d0cffe1-8340-4e9e-9856-dde44861b435@6c48a",
+    "packable": true
+  }
+}

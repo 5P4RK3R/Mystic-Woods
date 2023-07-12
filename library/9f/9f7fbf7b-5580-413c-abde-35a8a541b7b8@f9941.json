@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hero-attack-front-1",
+    "atlas": "",
+    "rect": {
+      "x": 10,
+      "y": 7,
+      "width": 12,
+      "height": 23
+    },
+    "offset": {
+      "x": 0,
+      "y": -2.5
+    },
+    "originalSize": {
+      "width": 32,
+      "height": 32
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9f7fbf7b-5580-413c-abde-35a8a541b7b8@6c48a",
+    "packable": true
+  }
+}

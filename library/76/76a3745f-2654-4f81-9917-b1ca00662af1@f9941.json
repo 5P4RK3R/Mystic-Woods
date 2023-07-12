@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "credits-text",
+    "atlas": "",
+    "rect": {
+      "x": 2,
+      "y": 3,
+      "width": 187,
+      "height": 17
+    },
+    "offset": {
+      "x": -0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 192,
+      "height": 22
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "76a3745f-2654-4f81-9917-b1ca00662af1@6c48a",
+    "packable": true
+  }
+}
